@@ -1,5 +1,7 @@
 # Module-3-Coding-Assignment
 
+Website is live at https://html-css-and-javascript-by-coursera.github.io/Module-3-Coding-Assignment/
+
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
 Here is what you will need to complete the assignment:
